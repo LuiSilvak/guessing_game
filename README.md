@@ -22,7 +22,7 @@ Este é um jogo simples e divertido em que o jogador tenta adivinhar um número 
 3. Siga as instruções no terminal para adivinhar o número secreto.
 
 ## Exemplo de Execução
-    ```bash
+   ```bash
     === Bem-vindo ao Jogo da Adivinhação! ===
     Tente adivinhar o número que estou pensando.
     Digite o limite inferior: 1
@@ -37,7 +37,7 @@ Este é um jogo simples e divertido em que o jogador tenta adivinhar um número 
     Parabéns! Você acertou o número 63 em 3 tentativas!
 
     === Fim do jogo! ===
-    ```
+   ```
 
 ## Melhorias Futuras
 
